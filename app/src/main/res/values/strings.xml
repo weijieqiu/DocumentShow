@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DocumentShow</string>
+    <string name="document_title">标题</string>
+    <string name="document_title_hint">请输入标题</string>
+</resources>
